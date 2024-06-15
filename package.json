@@ -1,0 +1,17 @@
+{
+  "name": "lotto-generator",
+  "version": "1.0.0",
+  "description": "A lotto number generator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1",
+    "schedule": "^1.2.3"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
