@@ -1,0 +1,5 @@
+echo "flask
+requests
+gunicorn
+schedule" > requirements.txt
+pip install -r requirements.txt
